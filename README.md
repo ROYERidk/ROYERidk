@@ -1,4 +1,16 @@
-## Hi there 👋
+# Current projects
+
+- Rootkit with LFS
+- Upskill Binary analysis
+- Upskill Rust
+
+# Languages
+- Python
+- C
+- Rust
+- ASM
+
+### Working OS : Linux
 
 <!--
 **ROYERidk/ROYERidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
