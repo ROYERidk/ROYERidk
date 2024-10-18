@@ -1,6 +1,6 @@
 # Current projects
 
-- Rootkit with LFS
+- Rootkit & LFS VM
 - Upskill Binary analysis
 - Upskill Rust
 
