@@ -2,6 +2,7 @@
 
 - Rootkit for LFS VM
 - Upskill Binary analysis
+- Rootme
 
 # Languages
 - C
