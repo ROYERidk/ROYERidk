@@ -9,7 +9,7 @@
 - ASM
 - Python
 
-### Working OS : Linux
+### Working OS : EndeavourOS
 
 <!--
 **ROYERidk/ROYERidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
