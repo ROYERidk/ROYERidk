@@ -1,14 +1,13 @@
 # Current projects
 
-- Rootkit & LFS VM
+- Rootkit for LFS VM
 - Upskill Binary analysis
-- Upskill Rust
 
 # Languages
-- Python
 - C
 - Rust
 - ASM
+- Python
 
 ### Working OS : Linux
 
