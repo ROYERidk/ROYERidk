@@ -1,8 +1,9 @@
 # Current projects
 
-- Rootkit for LFS VM
-- Upskill Binary analysis
-- Rootme
+Upskill :
+- Reverse engineering
+- Rust
+- Fuzzing
 
 # Languages
 - C
